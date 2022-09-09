@@ -15,10 +15,10 @@
 
 #### Step 3 jekyll themes
 - make new file "_config.yml" under the main directory
+
 ```
 remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+plugins: - jekyll-remote-theme
 title: Blog title
 ```
 
