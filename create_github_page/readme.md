@@ -1,5 +1,5 @@
-# How I make my first github pages blog
-This is how I make my first github page:
+## How I make my first github pages blog
+
 
 #### Step 1 Create new repositary
 - Use "github_username.github.io" to name the repositary
@@ -16,7 +16,10 @@ This is how I make my first github page:
 #### Step 3 jekyll themes
 - make new file "_config.yml" under the main directory
 ```
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Blog title
 ```
 
 #### Step 4 Edit "README.me" file
@@ -25,7 +28,6 @@ theme: jekyll-theme-cayman
 ```
 [folder](folder)
 # folder means a new folder under the main directory
-# folder contains a "README.me" file containing the content of the new page
-# folder also contains a "_config.yml" file making the jekyll theme
+# folder contains a "README.me" file with contents of the new page
 ```
 
