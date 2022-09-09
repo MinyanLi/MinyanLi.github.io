@@ -23,7 +23,8 @@ theme: jekyll-theme-cayman
 - links can be added
 ```
 [folder](folder)
+# folder means a new folder under the main directory
+# folder contains a "README.me" file containing the content of the new page
+# folder also contains a "_config.yml" file making the jekyll theme
 ```
-  - folder means a new folder under the main directory
-  - folder contains a "README.me" file containing the content of the new page
-  - folder also contains a "_config.yml" file making the jekyll theme
+
