@@ -10,7 +10,7 @@
 #### biology/biotechnology
 
 - [Social DNAing](https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-epigenomics/social-dnaing)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a seminar series for the genomic instability community
+&NewLine;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a seminar series for the genomic instability community
 
 - [Genome Engineering Seminar Series (GESS) at Harvard Medical School (HMS)](https://gess.hms.harvard.edu/)
 
