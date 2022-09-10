@@ -39,3 +39,20 @@ This is a series of entry level courses about data analytics.
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)
 
 This is a course about how to learn. But I think different people just work differently.
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are there empty spaces?
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Are there empty spaces?
+<br /><br /><br /><br /><br /><br /><br />Are there empty spaces?
+
+
+
+
+
+
+
+
+
