@@ -1,4 +1,4 @@
-You are very welcome to share some interesting/useful course with me.
+You are very welcome to share some interesting/useful courses with me.
 
 ## Courses/materials I am learning
 
