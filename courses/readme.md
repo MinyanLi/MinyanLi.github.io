@@ -1,13 +1,12 @@
-You are very welcome to share some interesting/useful courses with me.
+You are very welcome to share some interesting/useful courses with me ^_^
 
-## Courses/materials I am learning
+### Courses/materials I am learning
 
  <br>
   <br>
    <br>
 
-
-## Courses/materials I have learned recently
+### Courses/materials I have learned recently
 
 #### biology/biotechnology
 
