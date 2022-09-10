@@ -3,13 +3,6 @@ You are very welcome to share some interesting/useful courses with me ^_^
 ### Courses/materials I am learning
 ---
 
- <br>
-  <br>
-   <br>
-
-### Courses/materials I have learned recently
----
-
 #### biology/biotechnology
 
 - [Genome Engineering Seminar Series (GESS) at Harvard Medical School (HMS)](https://gess.hms.harvard.edu/)
@@ -19,6 +12,12 @@ This is a seminar series for the genomic instability community.
 
 - [DF/HCC Connect:Science seminar series](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)
 This seminar series involve speakers who are leaders in cancer biology, immune oncology and other fields.
+
+ <br>
+  <br>
+
+### Courses/materials I have learned recently
+---
 
 #### information technology
 
