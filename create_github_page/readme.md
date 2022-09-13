@@ -21,6 +21,7 @@ updated on 2022-09-13
 remote_theme: pages-themes/slate@v0.2.0
 plugins: - jekyll-remote-theme
 title: Blog title
+google_analytics: UA-xxxxxxxxx-x
 ```
 
 #### Step 4 Edit "README.me" file
