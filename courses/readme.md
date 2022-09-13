@@ -16,6 +16,9 @@ This is a seminar series for the genomic instability community.
 - [DF/HCC Connect:Science seminar series](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)
 This seminar series involve speakers who are leaders in cancer biology, immune oncology and other fields.
 
+- [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
+This is an entry leverl course for computer science.
+
  <br>
   <br>
 
