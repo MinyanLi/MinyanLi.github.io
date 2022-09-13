@@ -1,5 +1,6 @@
 ## How I make my first github pages blog
 
+updated on 2022-09-13
 
 #### Step 1 Create new repositary
 - Use "github_username.github.io" to name the repositary
