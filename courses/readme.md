@@ -1,7 +1,7 @@
 You are very welcome to share some interesting/useful courses with me ^_^
  <br>
   <br>
-updated on 2022-09-13
+updated on 2022-09-14
     <br>
 ### Courses/materials I am learning
 ---
@@ -16,8 +16,6 @@ This is a seminar series for the genomic instability community.
 - [DF/HCC Connect:Science seminar series](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/)
 This seminar series involve speakers who are leaders in cancer biology, immune oncology and other fields.
 
-- [CS50's Understanding Technology (CS50T 2020)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
-This is an entry leverl course for computer science.
 
  <br>
   <br>
@@ -25,13 +23,17 @@ This is an entry leverl course for computer science.
 ### Courses/materials I have learned recently
 ---
 
-#### information technology
+#### computer science and information technology
 
 - [learning GitHub Pages from GitHub Docs](https://docs.github.com/en/pages)
 
 - [learning GitHub from GitHub Docs quickstart](https://docs.github.com/en/get-started/quickstart)
 
 - [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
+
+- [CS50's Understanding Technology (CS50T 2020)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
+This is an entry leverl course for computer science.
+
 
 #### data
 
