@@ -17,7 +17,7 @@ This is a seminar series for the genomic instability community.
 This seminar series involve speakers who are leaders in cancer biology, immune oncology and other fields.
 
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
-This is a beginner course about Python coding
+This is a beginner course about Python coding ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
 
 
  <br>
