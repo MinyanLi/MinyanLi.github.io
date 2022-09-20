@@ -1,7 +1,7 @@
 You are very welcome to share some interesting/useful courses with me ^_^
  <br>
   <br>
-updated on 2022-09-14
+updated on 2022-09-20
     <br>
 ### Courses/materials I am learning
 ---
@@ -36,6 +36,8 @@ This is a beginner course about Python coding ([Here is my solutions to the prob
 
 - [CS50's Understanding Technology (CS50T 2020)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
 This is an entry leverl course for computer science.
+
+- [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
 
 
 #### data
