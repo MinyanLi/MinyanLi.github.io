@@ -1,7 +1,7 @@
 ### seminars
-
-updated on 2022-09-22
 ---
+updated on 2022-09-22
+
 - [Genome Engineering Seminar Series (GESS) at Harvard Medical School (HMS)](https://gess.hms.harvard.edu/)
 
 - [Social DNAing](https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-epigenomics/social-dnaing)
