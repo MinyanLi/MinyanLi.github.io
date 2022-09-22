@@ -1,4 +1,6 @@
 ### seminars
+
+updated on 2022-09-22
 ---
 - [Genome Engineering Seminar Series (GESS) at Harvard Medical School (HMS)](https://gess.hms.harvard.edu/)
 
