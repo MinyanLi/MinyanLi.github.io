@@ -16,19 +16,17 @@ updated on 2022-09-22
 
 #### computer science and information technology
 
-- [learning GitHub Pages from GitHub Docs](https://docs.github.com/en/pages)
-
-- [learning GitHub from GitHub Docs quickstart](https://docs.github.com/en/get-started/quickstart)
-
 - [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
 
 - [CS50's Understanding Technology (CS50T 2020)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
 This is an entry leverl course for computer science.
 
-- [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
-
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)
 This is a beginner course about Python coding ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
+
+- [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
+
+
 
 
 #### data
