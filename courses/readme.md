@@ -29,8 +29,7 @@ I recommend this course to those who want to learn Python.
 
 
 
-
-#### data
+#### data science and data analytics
 
 - [Google Data Analytics Specialization](https://coursera.org/share/f7d3c7133483120646ada6e7831b3b2e)
 This is a series of entry level courses about data analytics.
