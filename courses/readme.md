@@ -41,7 +41,7 @@ This is a series of entry level courses about data analytics.
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)
 This is a course about how to learn. But I think different people just work differently.
 
-##### personal finance
+**personal finance**
 
 - [Financial Planning for Young Adults](https://coursera.org/share/d7d093a008a4ff2c52c7dc5b235988ba)
 
