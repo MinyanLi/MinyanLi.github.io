@@ -1,7 +1,7 @@
 You are very welcome to share some interesting/useful courses with me ^_^
  <br>
   <br>
-updated on 2022-09-22
+updated on 2022-09-25
     <br>
 ### Courses/materials I am learning
 ---
@@ -23,6 +23,7 @@ This is an entry leverl course for computer science.
 
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)
 This is a beginner course about Python coding ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
+I recommend this course to those who want to learn Python.
 
 - [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
 
@@ -39,6 +40,10 @@ This is a series of entry level courses about data analytics.
 
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)
 This is a course about how to learn. But I think different people just work differently.
+
+##### personal finance
+
+- [Financial Planning for Young Adults](https://coursera.org/share/d7d093a008a4ff2c52c7dc5b235988ba)
 
 
 
