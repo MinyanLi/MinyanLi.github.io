@@ -16,8 +16,6 @@ updated on 2022-09-25
 
 ### computer science and information technology
 
-- [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
-
 - [CS50's Understanding Technology (CS50T 2020)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
 This is an entry leverl course for computer science.
 
@@ -26,6 +24,8 @@ This is a beginner course about Python programming ([Here is my solutions to the
 I recommend this course to those who want to learn Python.
 
 - [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
+
+- [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
 
 
 
