@@ -5,7 +5,7 @@ updated on 2022-09-25
     <br>
 ## Courses/materials I am learning
 ---
-
+- [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 
  <br>
@@ -22,7 +22,7 @@ updated on 2022-09-25
 This is an entry leverl course for computer science.
 
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)
-This is a beginner course about Python coding ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
+This is a beginner course about Python programming ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
 I recommend this course to those who want to learn Python.
 
 - [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
