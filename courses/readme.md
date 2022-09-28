@@ -3,7 +3,7 @@ You are very welcome to share some interesting/useful courses with me ^_^
   <br>
 updated on 2022-09-25
     <br>
-### Courses/materials I am learning
+## Courses/materials I am learning
 ---
 
 
@@ -11,10 +11,10 @@ updated on 2022-09-25
  <br>
   <br>
 
-### Courses/materials I have learned recently
+## Courses/materials I have learned recently
 ---
 
-#### computer science and information technology
+### computer science and information technology
 
 - [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
 
@@ -29,13 +29,13 @@ I recommend this course to those who want to learn Python.
 
 
 
-#### data science and data analytics
+### data science and data analytics
 
 - [Google Data Analytics Specialization](https://coursera.org/share/f7d3c7133483120646ada6e7831b3b2e)
 This is a series of entry level courses about data analytics.
 
 
-#### personal development
+### personal development
 
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)
 This is a course about how to learn. But I think different people just work differently.
