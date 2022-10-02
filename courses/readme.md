@@ -6,6 +6,7 @@ updated on 2022-09-25
 ## Courses/materials I am learning
 ---
 - [CS50's Introduction to Computer Science (CS50X 2022)](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+This is a biginner course about computer science. The first few weeks use C language to introduce some basic knowledge. The last few weeks introduce some other languages. I recommend taking CS50P before taking CS50x. ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50x)).
 
 
  <br>
@@ -17,7 +18,7 @@ updated on 2022-09-25
 ### computer science and information technology
 
 - [CS50's Understanding Technology (CS50T 2022)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
-This is an entry level course for computer science.
+This is an entry level course for computer science. It contains information about how the technology work.
 
 - [CS50's Introduction to Programming with Python (CS50P 2022)](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)
 This is a beginner course about Python programming ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
