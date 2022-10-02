@@ -17,10 +17,10 @@ This is a biginner course about computer science. The first few weeks use C lang
 
 ### computer science and information technology
 
-- [CS50's Understanding Technology (CS50T 2022)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)
+- [CS50's Understanding Technology (CS50T 2022)](https://www.edx.org/course/cs50s-understanding-technology?index=product&queryID=7865f65508a1e4a2f623d9953c3f17f7&position=9)<br>
 This is an entry level course for computer science. It contains information about how the technology work.
 
-- [CS50's Introduction to Programming with Python (CS50P 2022)](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)
+- [CS50's Introduction to Programming with Python (CS50P 2022)](https://cs50.harvard.edu/certificates/8634fc8c-0552-40f1-bd21-07d3780b4c6c)<br>
 This is a beginner course about Python programming ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
 I recommend this course to those who want to learn Python.
 
@@ -32,13 +32,13 @@ I recommend this course to those who want to learn Python.
 
 ### data science and data analytics
 
-- [Google Data Analytics Specialization](https://coursera.org/share/f7d3c7133483120646ada6e7831b3b2e)
+- [Google Data Analytics Specialization](https://coursera.org/share/f7d3c7133483120646ada6e7831b3b2e)<br>
 This is a series of entry level courses about data analytics.
 
 
 ### personal development
 
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)<br>
 This is a course about how to learn. But I think different people just work differently.
 
 **personal finance**
