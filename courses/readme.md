@@ -9,6 +9,10 @@ updated on 2022-10-02
 This is a biginner course about computer science. The first few weeks use C language to introduce some basic knowledge. The last few weeks introduce some other languages. I recommend taking CS50P before taking CS50x.<br> 
 ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50x))
 
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)<br>
+
+- [IBM Applied Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/software-engineering-fundamentals?skipBrowseRedirect=true)
+
 
  <br>
   <br>
@@ -29,6 +33,8 @@ This is a beginner course about Python programming. I recommend this course to t
 - [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
 
 - [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
+
+
 
 
 
