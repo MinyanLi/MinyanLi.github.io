@@ -12,3 +12,5 @@ This seminar series involve speakers who are leaders in cancer biology, immune o
 
 - [Life Science Across the Globe](https://lifescienceacrosstheglobe.org/)<br>
 This is monthly seminar about different fields of life sciences.
+
+- [European glycoscience community webminars](https://euroglyco.com/egc-webinar/2022-webinar-recordings/)<br>
