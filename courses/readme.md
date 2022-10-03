@@ -30,9 +30,9 @@ This is a beginner course about Python programming. I recommend this course to t
 ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50P))
 
 
-- [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)
+- [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)<br>
+This course is more suitable for non techinical staff in AI companies.
 
-- [Getting Started with Git and GitHub](https://coursera.org/share/15113bc5f0031ad907579ed1a8a75e8b)
 
 
 
