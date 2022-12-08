@@ -44,6 +44,13 @@ This course is more suitable for non techinical staff in AI companies.
 This is a series of entry level courses about data analytics.
 
 
+### biology/biotech/biomed
+
+- [Industrial Biotechnology] (https://coursera.org/share/c3f2335c83ecafda963d5a5294fe46b1)<br>
+This is an introduction course for inductrial biotechnology (information might be outdated)
+
+
+
 ### personal development
 
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a35c35ab24cc5e9dce0c932acda16129)<br>
