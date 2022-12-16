@@ -46,7 +46,7 @@ This is a series of entry level courses about data analytics.
 
 ### biology/biotech/biomed
 
-- [Industrial Biotechnology] (https://coursera.org/share/c3f2335c83ecafda963d5a5294fe46b1)<br>
+- [Industrial Biotechnology](https://coursera.org/share/c3f2335c83ecafda963d5a5294fe46b1)<br>
 This is an introduction course for inductrial biotechnology (information might be outdated)
 
 
