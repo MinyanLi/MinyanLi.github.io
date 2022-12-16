@@ -1,7 +1,7 @@
 You are very welcome to share some interesting/useful courses with me ^_^
  <br>
   <br>
-updated on 2022-12-08
+updated on 2022-12-16
     <br>
 ## Courses/materials I am learning
 ---
@@ -9,7 +9,6 @@ updated on 2022-12-08
 This is a biginner course about computer science. The first few weeks use C language to introduce some basic knowledge. The last few weeks introduce some other languages. I recommend taking CS50P before taking CS50x.<br> 
 ([Here is my solutions to the problem sets](https://github.com/MinyanLi/CS50x))
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)<br>
 
 - [IBM Applied Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/software-engineering-fundamentals?skipBrowseRedirect=true)
 
@@ -33,6 +32,7 @@ This is a beginner course about Python programming. I recommend this course to t
 - [AI for everyone](https://coursera.org/share/7adaf26537df6cd1219a57cb688fe4fd)<br>
 This course is more suitable for non techinical staff in AI companies.
 
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9VMJPZ893H4R)<br>
 
 
 
