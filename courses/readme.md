@@ -1,7 +1,7 @@
 You are very welcome to share some interesting/useful courses with me ^_^
  <br>
   <br>
-updated on 2022-12-16
+updated on 2022-12-20
     <br>
 ## Courses/materials I am learning
 ---
@@ -12,6 +12,8 @@ This is a biginner course about computer science. The first few weeks use C lang
 
 - [IBM Applied Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/software-engineering-fundamentals?skipBrowseRedirect=true)
 
+- [verbal advantage](https://www.youtube.com/watch?v=lWyOjb2y4es&list=PLxZeWF6LvOqNafoFxEoEuUemlROot0l0-)
+This is a book about proper usage of words
 
  <br>
   <br>
